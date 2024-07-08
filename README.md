@@ -1,7 +1,5 @@
-# CNN
+Potato Leaf Disease Classification Using Deep Learning
 
-This is a Convolution Neural Networks repository and it has two Notebooks.
-This Repository has a file called Potato Disease Classification where the CNN model is used to predict the diseases of potatoes.
-
-The first Notebook has a general Deep Learning Model, and the second Notebook uses the ResNet50 Transfer Learning Model.
+Developed and compared two convolutional neural network (CNN) models using Keras: a ResNet50 model and a custom-designed model, with the latter achieving superior accuracy.
+The first Notebook has a general Deep Learning Model, and the second uses the ResNet50 Transfer Learning Model.
 
